@@ -4,9 +4,9 @@
 
 \## Project Description
 
-A simple Python application that calculates student
+A smart Python application that evaluates student
 
-percentage and assigns grades based on marks.
+marks and generates academic performance reports.
 
 
 
